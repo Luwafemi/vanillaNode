@@ -1,2 +1,2 @@
 # vanillaNode
-...a simple vanilla Node.js server
+ •A simple vanilla Node.js server
